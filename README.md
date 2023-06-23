@@ -1,2 +1,1 @@
-# Autotests_python-
-Пример автотестов на python + selenium + allure
+Проект для выполнения домашнего задания.
